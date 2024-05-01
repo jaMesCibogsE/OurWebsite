@@ -1,0 +1,31 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+.jog-12{
+    list-style-type: none;
+    padding:  10px;
+    color: skyblue;
+    margin: 5px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(windows-xp-bliss-landscape-rainbow-blue-sky-5k-4480x2520-3187.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  
+}
+
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
